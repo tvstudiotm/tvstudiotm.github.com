@@ -251,9 +251,9 @@
 			<tvc>
 		<tvcid>35</tvcid>
 		<tvcname>日本</tvcname>
-		<tvcversion>1</tvcversion>
+		<tvcversion>2</tvcversion>
 		<tvcorder>34</tvcorder>
-		<tvcdelete>0</tvcdelete>
+		<tvcdelete>1</tvcdelete>
 	</tvc>
 			<tvc>
 		<tvcid>36</tvcid>
